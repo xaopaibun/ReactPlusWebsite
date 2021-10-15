@@ -41,6 +41,7 @@ li.menu__item:hover {
   font-weight: 500;
   display: block;
 }
+
 .menu__item a:hover {
   color: #0bbee7;
   text-decoration: none;
